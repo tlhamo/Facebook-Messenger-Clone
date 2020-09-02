@@ -1,0 +1,35 @@
+.message {
+  padding: 10px;
+  margin: 10px;
+  width: fit-content;
+}
+
+.message__user {
+  margin-left: auto;
+  color: white;
+  text-align: left !important;
+}
+
+.message__userCard {
+  background-color: #98ded4 !important;
+  border-radius: 40px !important;
+  align-items: center;
+}
+
+.message__guestCard {
+  background-color: #8e91f4 !important;
+  border-radius: 40px !important;
+  align-items: center;
+}
+
+.message__cardContent {
+  padding-bottom: 16px !important;
+}
+
+.message__content {
+  font-size: 16px !important;
+}
+
+.message__username {
+  text-transform: capitalize;
+}
